@@ -1,5 +1,3 @@
 ## Output 
 
-![alt text](image-1.png)
-
-![Alt Text](https://github.com/codewithsinchana/Sinchana03/image.png)
+[Open Image](https://raw.githubusercontent.com/codewithsinchana/Sinchana03/main/image.png)
